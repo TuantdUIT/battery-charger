@@ -1,1 +1,0 @@
-window.GOONG_MAP_KEY = "5mVwiK7NO93D4JwyTJwx16PYyz4OhqJnvrS2PFuW";
